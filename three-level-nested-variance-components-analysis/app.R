@@ -31,7 +31,7 @@ ui <-shinyUI(pageWithSidebar(
             br(),
             actionButton(inputId='ab1', label="R code here", 
                          icon = icon("th"), 
-                         onclick ="window.open('https://raw.githubusercontent.com/eamonn2014/crossover-trial/master/ABBA.crossover/app.R', '_blank')"),
+                         onclick ="window.open('https://raw.githubusercontent.com/eamonn2014/Three-level-nested-variance-components-analysis/master/three-level-nested-variance-components-analysis/app.R', '_blank')"),
             
             br(),
             br(),
