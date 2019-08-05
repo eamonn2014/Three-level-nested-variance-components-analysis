@@ -2,7 +2,7 @@
 
 'Three-level-nested-variance-components-analysis.R' Simulate plot and analyse such a study design.
 
-'Three-level-nested-variance-components-analysis.App' Simulate plot and analyse such a study design.
+'Three-level-nested-variance-components-analysis' Shiny App to simulate plot and analyse such a study design.
 
 Deployed here.
 
