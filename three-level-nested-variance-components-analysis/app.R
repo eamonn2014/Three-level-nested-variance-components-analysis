@@ -22,7 +22,7 @@ ui <-shinyUI(pageWithSidebar(
                         choices=c("Linear Mixed Model" )),
             
             div(p("Select the true population parameters and a 3 level nested data set is simulated (no missing data). A plot of the raw data is generated. 
-                  A model is fit to estimate the variance components. You also have the choices of selecting a new sample.")),
+                  A model is fit to estimate the variance components. You also have the choices of selecting a new sample. ")),
             
             
             br(),
